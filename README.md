@@ -11,3 +11,13 @@ feel free to make any improvement if you want to.
 Print settings same as voron with minimal supports.
 
 ![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/1.jpg?raw=true)
+
+![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/2.jpg?raw=true)
+
+![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/3.jpg?raw=true)
+
+![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/4.jpg?raw=true)
+
+![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/5.jpg?raw=true)
+
+![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/6.jpg?raw=true)

@@ -10,6 +10,16 @@ feel free to make any improvement if you want to.
 
 Print settings same as voron with minimal supports. heat inserts required
 
+as I am not using canbus, therefore I have not added mountings for them.
+
+if anyone interested to adding more features, feel free to do so, 
+
+I would be interested to see if this goes any further in developement
+
+print orientation in photos are how I printed them out
+
+![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/0.jpg?raw=true)
+
 ![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/1.jpg?raw=true)
 
 ![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/2.jpg?raw=true)

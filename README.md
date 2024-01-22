@@ -8,7 +8,7 @@ after posting on voron group on facebook, there seems to be many interested,
 so I put it here for you guys to try out,
 feel free to make any improvement if you want to.
 
-Print settings same as voron with minimal supports.
+Print settings same as voron with minimal supports. heat inserts required
 
 ![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/1.jpg?raw=true)
 

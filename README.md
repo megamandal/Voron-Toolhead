@@ -18,6 +18,8 @@ I would be interested to see if this goes any further in developement
 
 print orientation in photos are how I printed them out
 
+for adxl345 I am using a nozzle mount for Rapido+ 2 UHF, may or may not owrk for HF, I haven't tried it myself
+
 ![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/0.jpg?raw=true)
 
 ![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/1.jpg?raw=true)

@@ -18,6 +18,4 @@ Print settings same as voron with minimal supports. heat inserts required
 
 ![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/4.jpg?raw=true)
 
-![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/5.jpg?raw=true)
-
 ![alt text](https://github.com/megamandal/Voron-Toolhead/blob/main/PICS/6.jpg?raw=true)
